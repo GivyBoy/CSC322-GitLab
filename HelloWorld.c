@@ -3,7 +3,7 @@
 
 int main(int argc, char* argv[]){
 	
-	printf("Hello Very Happy World!\n");
+	printf("Hello Crazy World!\n");
 
 	return(EXIT_SUCCESS);
 }
